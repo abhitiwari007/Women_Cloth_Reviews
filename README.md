@@ -36,11 +36,5 @@ Inspired by the need to automate and improve women's clothing review analysis us
 
 
 
-#Project Structure:-
-1]Data Preprocessing: Cleansing and preparing textual data for model training.
-2]Model Training: Utilizes Multinomial Naive Bayes to train on labeled review data.
-3]Evaluation: Assesses model performance using metrics like accuracy, precision, and recall.
-4]Deployment: Potential for deploying the trained model in applications for automatic review categorization.
-#Applications:-
-1]E-commerce: Helps e-commerce platforms automatically classify and analyze customer feedback.
-2]Customer Insights: Provides valuable insights into customer preferences and sentiment analysis.
+
+
