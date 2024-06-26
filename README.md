@@ -4,9 +4,13 @@ This project implements a machine learning model for predicting women's clothing
 Customer reviews play a crucial role in understanding product satisfaction and customer sentiment. This project aims to automatically classify and predict reviews of women's clothing into predefined categories using machine learning techniques.
 # Key Features
 1] Text Classification: Categorizes textual reviews into classes based on their content.
+
 2] Multinomial Naive Bayes: Utilizes a probabilistic model suitable for handling text classification tasks.
+
 3] Data Preprocessing: Cleans and prepares textual data for model training.
+
 4] Model Training and Evaluation: Trains the model on labeled data and evaluates its performance using metrics such as accuracy and F1-score.
+
 5] Python Implementation: Implemented in Python using the Scikit-learn library for machine learning tasks.
 # Project Structure
 
