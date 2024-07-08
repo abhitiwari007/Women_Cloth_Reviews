@@ -1,0 +1,6 @@
+Install this library:-
+pandas
+numpy 
+matplotlib
+ seaborn 
+ itertools
